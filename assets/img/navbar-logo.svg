@@ -4,10 +4,10 @@
 	 viewBox="0 0 228.7 39.1" style="enable-background:new 0 0 228.7 39.1;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
-	.st1{font-family:'InkFree';}
-	.st2{font-size:29px;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'InkFree';}
+	.st3{font-size:29px;}
 </style>
 <rect x="4" y="6" class="st0" width="225" height="31"/>
-<text transform="matrix(1 0 0 1 6.563 32.4766)" class="st1 st2">Hank’s Repository</text>
-<text transform="matrix(1 0 0 1 372.4404 264)" class="st1 st2">Lorem ipsum</text>
+<text transform="matrix(1 0 0 1 6.563 32.4766)" class="st1 st2 st3">Hank’s Repository</text>
 </svg>
